@@ -17,11 +17,16 @@ My work combines project delivery, product thinking, technical collaboration, an
 
 ### AI-Powered Gen Z Credit Card Recommendation System
 
-A responsible AI proof of concept designed to help Canadian bank product managers identify Gen Z customer needs and explore suitable credit card concepts using synthetic data, customer segmentation, product analysis, and AI-assisted ideation.
+A responsible AI proof of concept designed to help Canadian bank product managers understand Gen Z customer needs and explore suitable credit card concepts. The solution used more than 4,300 synthetic customer and product records, customer segmentation, market-gap analysis, and AI-assisted product ideation.
+
+**Highlights:** Four customer personas · Responsible product recommendations · FastAPI · Streamlit · Python · scikit-learn
 
 ### Canadian Bank AI Governance Assistant
 
-A retrieval-augmented generation solution that helps governance and compliance teams retrieve source-grounded information from OSFI guidance, with attention to permissions, auditability, human oversight, and safe responses.
+A retrieval-augmented generation assistant designed to help bank governance, compliance, and risk teams retrieve source-grounded information from OSFI guidance. The solution emphasized permissions, auditability, human oversight, document traceability, and safe responses when information was unavailable.
+
+**Highlights:** OSFI E-23, B-10, and B-13 · RAG · 224 document chunks · n8n · Pinecone · OpenAI embeddings
+
 
 ## Technical Toolkit
 
